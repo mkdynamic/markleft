@@ -2,7 +2,7 @@
 
 A Sublime Text 3 package for nice Markdown editing.
 
-![](https://scrn.es/2Wyor0h9MqWW4P6oKSCtxy.gif)
+![](https://scrn.es/37ImhN34IBgpHNxrz32LF5.gif)
 
 ## Installation
 
