@@ -8,8 +8,9 @@ A Sublime Text 3 package for nice Markdown editing.
 
 Open a Terminal window and paste the following to install:
 
-```
-cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/ && git clone git@github.com:mkdynamic/markleft.git Markleft
+```shell
+cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/ && \
+  git clone git@github.com:mkdynamic/markleft.git Markleft
 ```
 
 To use Markleft, choose "Markleft" as the syntax when editing a file.
