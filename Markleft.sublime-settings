@@ -7,7 +7,7 @@
   "line_padding_bottom": 2,
   "line_numbers": false,
   "gutter": false,
-  "margin": 0,
+  "margin": 12,
   "rulers": [],
   "detect_indentation": false,
   "auto_indent": false,
