@@ -15,6 +15,15 @@ cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/ && \
 
 To use Markleft, choose "Markleft" as the syntax when editing a file.
 
+## Updating
+
+Open a Terminal window and paste the following to update:
+
+```shell
+cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/ && \
+  git pull
+```
+
 ## Typeface
 
 Be sure you have [Fira Mono installed](https://mozilla.github.io/Fira/) unless you wish to use a different typeface.
