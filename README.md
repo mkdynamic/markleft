@@ -20,7 +20,7 @@ To use Markleft, choose "Markleft" as the syntax when editing a file.
 Open a Terminal window and paste the following to update:
 
 ```shell
-cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/ && \
+cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/Markleft && \
   git pull
 ```
 
