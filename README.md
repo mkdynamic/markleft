@@ -9,8 +9,8 @@ A Sublime Text 3 package for nice Markdown editing.
 Open a Terminal window and paste the following to install:
 
 ```shell
-cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/ && \
-  git clone git@github.com:mkdynamic/markleft.git Markleft
+(cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/ && \
+  git clone git@github.com:mkdynamic/markleft.git Markleft)
 ```
 
 To use Markleft, choose "Markleft" as the syntax when editing a file.
@@ -20,8 +20,8 @@ To use Markleft, choose "Markleft" as the syntax when editing a file.
 Open a Terminal window and paste the following to update:
 
 ```shell
-cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/Markleft && \
-  git pull
+(cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/Markleft && \
+  git pull)
 ```
 
 ## Typeface
